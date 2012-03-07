@@ -1,5 +1,7 @@
-This is extension library provading CRUD functionality to ZF based application.
+Extension library provading CRUD functionality to ZF based application.
 
-How to install.
+This is my play with Zend Framework inspired by [Batman](https://github.com/wilgucki/) and based on his [UniversalZF](https://github.com/wilgucki/UniversalZF)
+
+Installation.
 Clone repository under your 'library' directory and name it 'Crud'
 
